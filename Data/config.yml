@@ -1,1 +1,9 @@
 # Plot Config File
+
+
+# Dostępne wartości: (podane w ilości chunków)
+# 1 = (16x16), 3 = (48x48), 5 = (80x80),
+# 7 = (112x112), 9 = (144x144), 11 = (176x176)...
+
+# Zmiana wartości poniżej kiedy są już ustawione cuboidy może spowodować ogromne problemy z cuboidami!!!
+cuboid_size: 3
