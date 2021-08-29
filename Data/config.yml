@@ -7,3 +7,17 @@
 
 # Zmiana wartości poniżej kiedy są już ustawione cuboidy może spowodować ogromne problemy z cuboidami!!!
 cuboid_size: 3
+
+# Ile cuboidów może posiadać gracz?
+
+# Uprawnienia:
+#   - protectedclans.claims.vip
+#   - protectedclans.claims.supervip
+default_cuboids_quantity: 1
+vip_cuboids_quantity: 2
+supervip_cuboids_quantity: 3
+
+# Obszar poza cuboidem gdzie osoby nie dodane nie moga
+# wykoniwać nie bezpiecznych działań np. wylewanie wody i lawy etc.
+# Podane w ilości chanów z każdej strony cuboidu
+cuboid_safe_zone: 1
